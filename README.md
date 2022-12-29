@@ -1,2 +1,2 @@
 # nejchirci.github.io
-Deploy for mm_website.
+Deploy for custom user pages.
